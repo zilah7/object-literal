@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+}
+
+.products{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 3rem;
+    padding: 10px;
+    border: black solid 1px;
+}
+
+.keranjang{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 3rem;
+    padding: 10px;
+    border: black solid 1px;
+}
